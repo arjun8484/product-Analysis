@@ -1,6 +1,6 @@
 openai==0.28.1
-streamlit
-pandas
-re
-tqdm
+streamlit==0.68.1
+pandas==2.2.2
+re==4.65.0
+tqdm==4.65.0
 
